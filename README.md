@@ -6,7 +6,7 @@ Há estações do ano em que as vendas são significativamente maiores ou menore
 
 Um desafio da modelagem de dados de varejo é a necessidade de tomar decisões com base em histórico limitado. Se o Natal acontece apenas uma vez por ano, a chance de ver como as decisões estratégicas impactaram o resultado final também diminui.
 
-Neste conjunto de dados a um historico de vendas de 45 lojas Walmart localizadas em diferentes regiões. Cada loja contém muitos departamentos.
+Neste conjunto de dados há um historico de vendas de 45 lojas Walmart localizadas em diferentes regiões. Cada loja contém muitos departamentos.
 
 ## Objetivo do Projeto
 
