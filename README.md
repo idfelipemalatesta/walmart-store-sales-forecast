@@ -8,6 +8,8 @@ Um desafio da modelagem de dados de varejo é a necessidade de tomar decisões c
 
 Neste conjunto de dados há um historico de vendas de 45 lojas Walmart localizadas em diferentes regiões. Cada loja contém muitos departamentos.
 
+Fonte dos dados: https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting
+
 ## Objetivo do Projeto
 
 O objetivo é projetar as vendas de cada departamento em cada loja para os próximos 3 meses.
