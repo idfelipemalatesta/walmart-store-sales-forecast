@@ -21,7 +21,7 @@ O modelo também conseguiu capturar as tendências de queda no início do ano, a
 
 Construí uma margem de erro que garante uma acurácia de 71% nas projeções. O erro do modelo está em torno de 1631.58 unidades de vendas, com uma média de vendas de 15981.25.
 
-Foi gerado 2 relatórios analíticos para o excel contendo: A data, a projeção e as margens de erro. No 1 primeiro contém a média de vendas por lojas e no segundo contendo as lojas e seus departamentos.
+**Entregáveis:** 2 relatórios analíticos em excel contendo: A data, a projeção e as margens de erro. No 1 primeiro contém a média de vendas por lojas e no segundo contendo as lojas e seus departamentos.
 
 Tópicos do projeto:
 
