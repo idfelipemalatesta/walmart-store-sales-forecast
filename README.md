@@ -23,6 +23,19 @@ Construí uma margem de erro que garante uma acurácia de 71% nas projeções. O
 
 Foi gerado 2 relatórios analíticos para o excel contendo: A data, a projeção e as margens de erro. No 1 primeiro contém a média de vendas por lojas e no segundo contendo as lojas e seus departamentos.
 
+Tópicos do projeto:
+
+- Análise Exploratória dos Dados
+- Feature Engineering
+- Time Series Treino-Teste Split
+- Validação Cruzada Time Series Split
+- 4 modelos de Machine Learning utilizando dados normais e com Transformação Logarítmica
+- Otimização dos Hiperparâmetros (Optuna)
+- Avaliação do Desempenho - Real vs Previsto
+- Interpretabilidade do Modelo, variáveis de maior impacto
+- Gerado uma massa de novos dados para o Forecast
+- Resultados Financeiros e Conclusão
+
 Abaixo segue algumas imagens do projeto. O projeto completo pode ser acessado clicando [aqui](https://github.com/idfelipemalatesta/walmart-store-sales-forecast/blob/main/notebooks/sales-forecast_v3.ipynb)
 
 Analisando a distribuição da variável Vendas:
