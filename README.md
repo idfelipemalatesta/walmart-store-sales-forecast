@@ -27,8 +27,8 @@ Tópicos do projeto:
 
 - Análise Exploratória dos Dados
 - Feature Engineering
-- Time Series Treino-Teste Split
-- Validação Cruzada Time Series Split
+- Treino-Teste Time Series Split
+- Validação Cruzada com Time Series Split Treino e Validação
 - 4 modelos de Machine Learning utilizando dados normais e com Transformação Logarítmica
 - Otimização dos Hiperparâmetros (Optuna)
 - Avaliação do Desempenho - Real vs Previsto
